@@ -1,0 +1,5 @@
+{
+  "name": "DataFlow AI: Video Dataset Factory",
+  "description": "A professional workflow platform for large-scale AI video dataset production, featuring Prompt Engineering Agents, Pilot Validation steps, and Batch Production management using Google Veo models.",
+  "requestFramePermissions": []
+}
